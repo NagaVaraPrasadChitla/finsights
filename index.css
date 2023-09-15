@@ -1,0 +1,110 @@
+.big{
+    background: #abb8c3;
+    padding-top:20px ;
+    height: 100vh;
+}
+.container{
+    padding-top:20px ;
+    border-radius: 10px;
+    background: white;
+    padding: 30px;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.contain{
+    
+    height: 50%;
+    display: flex;
+  
+    justify-content: space-between;
+
+}
+.head{
+    color: #660D59;
+    font-size: 30px;
+    font-weight: bold;
+}
+.ahj{
+    width: 30%;
+    
+}
+.container2{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.para{
+    font-size: 15px;
+    font-weight: 500;
+}
+.box1{
+
+    background: gray;
+    border-radius: 5px;
+    width: 400px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px;
+    overflow: hidden;
+  
+}
+.box2{
+    color:#660D59;
+    font-size:15px;
+    margin-top:6px;
+    margin-left:5px ;
+    font-weight: 600;
+   
+}
+.star{
+    color:#ffeb3b;
+    margin: 3px;
+}
+.order{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.dashboard{
+    border-radius: 10px;
+    background: #660D59;
+    padding: 20px;
+    margin: 20px;
+    height: 180px;
+    width: 280px;
+}
+
+.inner{
+    height: 30%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.user{
+    color: white;
+    font-size: 15px;
+}
+.users{
+    color:#1e1c10;
+    font-size: 15px;
+    
+}
+.image{
+    border-radius: 100%;
+    background: white;
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+}
+.des{
+    padding-left: 20px;
+    color: white;
+    font-weight: 400;
+    font-size: 12px;
+    flex-wrap: wrap;
+}
